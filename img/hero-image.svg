@@ -1,0 +1,46 @@
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ana karakter -->
+  <rect x="180" y="100" width="140" height="200" rx="10" fill="#6C63FF" />
+  <rect x="190" y="120" width="120" height="160" rx="5" fill="#0E1525" />
+  <rect x="200" y="130" width="100" height="120" rx="2" fill="#1C2333" />
+
+  <!-- Ekran içeriği -->
+  <rect x="210" y="140" width="80" height="10" rx="2" fill="#4DB5FF" />
+  <rect x="210" y="160" width="60" height="5" rx="1" fill="#FFFFFF" />
+  <rect x="210" y="170" width="50" height="5" rx="1" fill="#FFFFFF" />
+  <rect x="210" y="180" width="70" height="5" rx="1" fill="#FFFFFF" />
+  <rect x="210" y="190" width="40" height="5" rx="1" fill="#FFFFFF" />
+  <rect x="210" y="205" width="30" height="15" rx="2" fill="#6C63FF" />
+
+  <!-- Kodlama sembolleri -->
+  <circle cx="340" cy="150" r="30" fill="#4DB5FF" opacity="0.7" />
+  <text x="340" y="155" font-family="Arial" font-size="24" fill="#FFFFFF" text-anchor="middle">{}</text>
+
+  <circle cx="380" cy="200" r="20" fill="#6C63FF" opacity="0.7" />
+  <text x="380" y="205" font-family="Arial" font-size="16" fill="#FFFFFF" text-anchor="middle">/</text>
+
+  <circle cx="360" cy="250" r="25" fill="#FFFFFF" opacity="0.7" />
+  <text x="360" y="255" font-family="Arial" font-size="20" fill="#0E1525" text-anchor="middle">JS</text>
+
+  <circle cx="120" cy="180" r="28" fill="#6C63FF" opacity="0.7" />
+  <text x="120" y="185" font-family="Arial" font-size="22" fill="#FFFFFF" text-anchor="middle">
+    &lt;/&gt;
+  </text>
+
+  <circle cx="150" cy="240" r="22" fill="#4DB5FF" opacity="0.7" />
+  <text x="150" y="245" font-family="Arial" font-size="18" fill="#FFFFFF" text-anchor="middle">css</text>
+
+  <!-- Alt kısım - karakter gölgesi -->
+  <ellipse cx="250" cy="410" rx="100" ry="20" fill="#1C2333" opacity="0.3" />
+  
+  <!-- Karakter ayakları -->
+  <rect x="200" y="300" width="30" height="110" rx="10" fill="#6C63FF" />
+  <rect x="270" y="300" width="30" height="110" rx="10" fill="#6C63FF" />
+  
+  <!-- Dekoratif çemberler -->
+  <circle cx="100" cy="100" r="15" fill="#6C63FF" opacity="0.4" />
+  <circle cx="120" cy="80" r="10" fill="#4DB5FF" opacity="0.4" />
+  <circle cx="400" cy="350" r="20" fill="#6C63FF" opacity="0.4" />
+  <circle cx="370" cy="320" r="12" fill="#4DB5FF" opacity="0.4" />
+  <circle cx="420" cy="120" r="25" fill="#6C63FF" opacity="0.2" />
+</svg> 
